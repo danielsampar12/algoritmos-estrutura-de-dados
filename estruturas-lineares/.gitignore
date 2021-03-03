@@ -1,11 +1,15 @@
 ./bin/
 
-.settings
+./.settings/
+
 .classpath
 .project
 
 # Compiled class file
 *.class
+
+# settings
+*.prefs
 
 # Log file
 *.log
